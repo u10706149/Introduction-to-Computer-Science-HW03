@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="UI.css">
+	<head>
+		<title>11th's webpage</title>
+	</head>
+	<body>
+		<header class="banner">
+			<h1 style="text-align:center;color:Orange">Welcome to ours webpage!<br></h1>
+		</header>
+		<section>
+			<h2 style="text-align:center;color:Blue">Members:<br></h1>
+		</section>
+		<section>
+			<h3 style="text-align:center;color:Blue">卓訓德<br></h3>
+		</section>
+		<article>
+			<h4>各位好，我來自桃園中壢，興趣是玩音樂遊戲，請多多指教:D<br></h4>
+		</article>
+		<section>
+			<h3 style="text-align:center;color:Blue">張家豪<br></h3>
+		</section>
+		<article>
+			<h4>你好，我叫小豪，我來自桃園。<br></h4>
+		</article>
+		<section>
+			<h3 style="text-align:center;color:Blue">劉景程<br></h3>
+		</section>
+		<article>
+			<h4>你好，我叫白白。<br></h4>
+		</article>
+		<section>
+			<h3 style="text-align:center;color:Blue">曹仲廷<br></h3>
+		</section>
+		<article>
+			<h4>你好，我是小帥哥。<br></h4>
+		</article>
+		<section>
+			<h3 style="text-align:center;color:Blue">林奕凱<br></h3>
+		</section>
+		<article>
+			<h4>你好，可以叫我凱凱，我住台北汐止。<br></h4>
+		</article>
+		<footer>
+			<p>Thanks for watching!
+		</footer>
+	</body>
+</html>
 
-You can use the [editor on GitHub](https://github.com/u10706149/Introduction-to-Computer-Science-HW03/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/u10706149/Introduction-to-Computer-Science-HW03/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
